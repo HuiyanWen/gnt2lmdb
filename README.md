@@ -11,3 +11,6 @@
 <br>hwtrn.gnt \
 <br>./3755_train_RGB\
 <br>Pause
+<h3>Algorithm</h3>
+
+![Example image2](https://github.com/HuiyanWen/gnt2lmdb/blob/master/1.png)
