@@ -8,6 +8,6 @@
 <br>#!/usr/bin/en sh</br>
 <br>convert_imageset --shuffle=true –resize_height=112 –resize_width=112 \</br>
 <br>lexicon3755.txt \</br>
-<br>hwtrn.gnt \</br></br>
-<br>./3755_train_RGB\</br>
+<br>hwtrn.gnt \
+<br>./3755_train_RGB\
 <br>Pause</br>
